@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "vagrant-rebuild"
   spec.version       = Rebuild::VERSION
   spec.authors       = ['Kevin Cormier', 'Garin Bedian']
-  spec.email         = ['kevin.cormier@simplisafe.com', 'garin.bedian@simplisafe.com']
+  spec.email         = ['security@simplisafe.com']
 
   spec.summary       = "Stops and deletes all traces of the vagrant machine then starts and provisions the vagrant environment"
-  spec.homepage      = "https://github.com/simplisafe/vagrant-rebuild"
+  spec.homepage      = "https://github.com/simplisafe-oss/vagrant-rebuild"
 
   spec.license       = "BSD-2-Clause"
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
