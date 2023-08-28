@@ -23,7 +23,7 @@ GIT
 PATH
   remote: .
   specs:
-    vagrant-rebuild (0.1.3)
+    vagrant-rebuild (0.1.4)
 
 GEM
   remote: https://rubygems.org/
